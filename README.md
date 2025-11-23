@@ -1,6 +1,6 @@
 # AnomalyAI
 
-AnomalyAI is a simple machine learning app that detects unusual patterns in time series data. Users can upload a CSV file and receive an instant report that highlights values that stand out from expected trends. The project demonstrates data cleaning, feature engineering, model selection, and interactive visual insight using Python pandas scikit learn and Streamlit.
+AnomalyAI is a machine learning app that detects unusual patterns in time series data. Users can upload a CSV file and receive an instant report that highlights values that stand out from expected trends. The project demonstrates data cleaning, feature engineering, model selection, and interactive visual insight using Python pandas scikit learn and Streamlit.
 
 ## Features
 
