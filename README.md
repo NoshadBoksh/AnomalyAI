@@ -36,4 +36,3 @@ AnomalyAI is a machine learning app that detects unusual patterns in time series
 
 * Add product wise or category wise anomaly detection  
 * Add a simple report view with summary statistics  
-* Add an alert level for severe anomalies  
